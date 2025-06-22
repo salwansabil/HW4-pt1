@@ -1,9 +1,9 @@
-//File: index.html
+//File: chart.js
 //GUI Assignment: Creating an Interactive Dynamic Table
 //Salwan Sabil, UMass Lowell Computer Science, salwan_sabil@student.uml.edu
 //Copyright (c) 2025 by Salwan. All rights reserved. May be freely copied or
 //excerpted for educational purposes with credit to the author.
-//updated by SS on June 15, 2025 at 3:30 PM
+//updated by SS on June 22, 2025 at 1:30 PM
 
 //jQuery validation plugin
 $(document).ready(function () {
